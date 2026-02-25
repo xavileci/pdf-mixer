@@ -13,8 +13,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'PDF Merger Pro',
-  description: 'Combina varios documentos PDF en un único documento optimizado.',
+  title: 'PDF Mixer',
+  description: 'Mezcla múltiples archivos PDF en un único documento generado por IA.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {

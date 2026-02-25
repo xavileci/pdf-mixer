@@ -111,7 +111,7 @@ export default function PdfMerger() {
   return (
     <div className="w-full max-w-5xl mx-auto p-4 space-y-8">
       <div className="text-center space-y-2">
-        <h1 className="text-4xl font-bold tracking-tight text-slate-900">Combina tus PDFs</h1>
+        <h1 className="text-4xl font-bold tracking-tight text-slate-900">PDF Mixer</h1>
         <p className="text-slate-500">Selecciona archivos o carpetas. Se ordenarán automáticamente por nombre.</p>
       </div>
 
